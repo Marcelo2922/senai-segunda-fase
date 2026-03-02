@@ -1,3 +1,5 @@
+//Escreva um programa que solicite ao usuário dois números e exiba o resultado da soma, subtração, multiplicação e divisão desses números no console, exemplo:
+
 const prompt = require("prompt-sync")();
 let num1 = Number(prompt("Digite o primeiro número: "))
 num2 = Number(prompt("Digite o segundo número: "))

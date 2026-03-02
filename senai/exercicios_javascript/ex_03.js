@@ -1,3 +1,5 @@
+//Escreva um programa que solicite ao usuário um números e verifique se o número é maior que 10. Se for, imprima no console "O número é maior que 10", caso contrário, imprima "O número é menor ou igual a 10".
+
 const prompt = require("prompt-sync")();
 let num1 
 num1= prompt("Digite um número: ")
