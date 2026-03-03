@@ -1,9 +1,8 @@
 function imprimirAnoAtual() {
-  const dataAtual = new Date();      // pega a data atual do sistema
-  const anoAtual = dataAtual.getFullYear();  // extrai o ano
+  const dataAtual = new Date();      
+  const anoAtual = dataAtual.getFullYear(); 
 
   console.log("Ano atual:", anoAtual);
 }
 
-// chamando a função
 imprimirAnoAtual();
